@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ETaNa Kernel\'s TweakAIO</string>
+    <string name="tweakAIO_label">ETaNa Kernel\'s TweakAIO</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="discard">Discard</string>
+    <string name="unsaved_changes_title">Unsaved Changes</string>
+</resources>
